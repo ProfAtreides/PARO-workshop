@@ -46,6 +46,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/paro/CLionProjects/paro2023-template/cmake-build-debug/gtest/cmake_install.cmake")
   include("/home/paro/CLionProjects/paro2023-template/cmake-build-debug/exercise1/cmake_install.cmake")
+  include("/home/paro/CLionProjects/paro2023-template/cmake-build-debug/exercise2/cmake_install.cmake")
   include("/home/paro/CLionProjects/paro2023-template/cmake-build-debug/application/cmake_install.cmake")
 
 endif()
